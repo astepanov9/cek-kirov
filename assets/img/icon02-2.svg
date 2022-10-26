@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>Icon02-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #bde0bc } 
+		.txt1 { font-size: 55px;fill: #3ea63c;font-weight: 700;font-family: "DejaVuSans-Bold", "DejaVu Sans" } 
+	</style>
+	<path id="Layer" class="shp0" d="M50 100C22.35 100 0 77.65 0 50C0 22.35 22.35 0 50 0C77.65 0 100 22.35 100 50C100 77.65 77.65 100 50 100Z" />
+	<text id="2" style="transform: matrix(1,0,0,1,6,26)" >
+		<tspan x="29.724" y="41.787" class="txt1">2
+</tspan>
+	</text>
+</svg>
